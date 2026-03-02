@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Danilo Celestino
+# Olá, eu sou Danilo Celestino
 
 Programador e estudante de Ciência da Computação  
 Sempre aprendendo e evoluindo  
