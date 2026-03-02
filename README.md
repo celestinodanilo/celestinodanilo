@@ -17,7 +17,7 @@ Brasil
 
 ### Badge Oficial (Credly)
 
-[![Credly Badge](https://images.credly.com/images/688e9e22-53a5-4fa5-bb20-bd171068e312/Badge.png)](https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312)
+![Certificado](CCNAITN__1_.png)
 
 🔗 **Ver certificado completo:**  
 https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312
