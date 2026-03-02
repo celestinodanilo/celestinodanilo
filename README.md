@@ -15,12 +15,12 @@ Brasil
 
 ##  Certificação
 
-###  Badge Oficial (Credly)
+### Badge Oficial (Credly)
 
-[![Certificado](https://images.credly.com/size/340x340/images/688e9e22-53a5-4fa5-bb20-bd171068e312.png)](https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312/linked_in_profile)
+[![Credly Badge](https://images.credly.com/images/688e9e22-53a5-4fa5-bb20-bd171068e312/Badge.png)](https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312)
 
 🔗 **Ver certificado completo:**  
-https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312/linked_in_profile
+https://www.credly.com/badges/688e9e22-53a5-4fa5-bb20-bd171068e312
 
 ---
 
